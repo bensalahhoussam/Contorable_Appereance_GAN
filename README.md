@@ -50,9 +50,9 @@ For the predicition pose model
 
 for image generator 
 
-First 4 images are the sources 
-second 4 images are the generated images 
-third 4 images are the target pose 
+* First 4 images are the sources 
+* second 4 images are the generated images 
+* third 4 images are the target pose 
 
 ![epoch_031_comparison](https://github.com/user-attachments/assets/6ca769cf-d4ae-464e-a395-82a20c354651)
 
