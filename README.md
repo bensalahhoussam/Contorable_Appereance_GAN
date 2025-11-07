@@ -19,15 +19,15 @@ Video Generation: Combines generated frames into a smooth video of the predicted
 
 It has two model , one to generated future pose for k frames and second using image source as style info and pose to generate image that content same style and same pose 
 
-Input:
+Inputs:
 
-A source image of a person.
+* A source image of a person.
 
-A Target pose 
+* A Target pose 
 
 Pose Prediction:
 
-A first model predicts the future sequence of poses for the activity.
+* A first model predicts the future sequence of poses for the activity.
 
 Image Generation:
 
