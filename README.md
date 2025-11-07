@@ -64,6 +64,6 @@ third 4 images are the target pose
 
 
 
-## for the upcoming resuls 
+## for the upcoming results 
 
 Gan will takes time to generate good results , and then will generate videos based on psoe prediction 
