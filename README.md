@@ -59,3 +59,11 @@ third 4 images are the target pose
 
 
 ![epoch_030_comparison](https://github.com/user-attachments/assets/3ce1b78a-d6cc-4b77-978d-ef308367f7de)
+
+
+
+
+
+## for the upcoming resuls 
+
+Gan will takes time to generate good results , and then will generate videos based on psoe prediction 
